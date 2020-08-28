@@ -1,6 +1,6 @@
 
-print ("Esta es una prueba de codigo")
 
+print ("Hola Paulo <3")
 variable = "hola"
 print (variable)
 true = 1
