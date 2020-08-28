@@ -1,0 +1,27 @@
+Basicos
+git init le dices a git que trabaje en esta carpeta
+git clone url trae los archivos del repositorio de git
+
+Congifuracion
+git config --global user.name nombre  se agrega tu nombre
+git config --global user.email correo  se agrega tu correo
+
+
+git status muestra si te hace falta añadir archivos o commits
+git log muestra el historial
+git reglog muestra el historial completo de tola vida
+
+git add <nombreArchivo>  agrega el archivo a ram
+git add .   agrerga todos los archivos con cambios
+git commit -m "Mensaje"  agrega todos los archivo traqueados a la BD de git
+git push origin master envia todos los cambios del commit al repositorio remoto (github,gitlab)+
+git pull origin master trae todos los cambios del repo remoto
+
+git branch muestra todas las ramas
+git branch <nombre> crea una rtama nueva
+git checkout nombreRama te mueves entre ramas
+git checkout hash temueves en el tiempo
+git merge rama  Juntas 2 ramas o las unes
+
+git log --all --grah muestra de forma grafica lel historico
+
