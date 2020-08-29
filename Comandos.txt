@@ -21,7 +21,7 @@ git branch muestra todas las ramas
 git branch <nombre> crea una rtama nueva
 git checkout nombreRama te mueves entre ramas
 git checkout hash temueves en el tiempo
-git merge rama  Juntas 2 ramas o las unes
+git merge ramaAunir  Juntas 2 ramas o las unes, tienes que estar en la rama donde quiere unir
 
 git log --all --grah muestra de forma grafica lel historico
 
